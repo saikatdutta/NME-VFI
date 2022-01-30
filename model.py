@@ -7,7 +7,7 @@ from gridnet import GridNet
 from flow_reversal import FlowReversal
 from collections import OrderedDict
 
-from GridNet3D import Grid3DNet
+from gridnet3d import Grid3DNet
 
 import sys
 import cv2
@@ -64,10 +64,10 @@ class SmallMaskNet(nn.Module):
         x = self.conv3(x)
         return x
 
-class InterpNetV2(nn.Module):
+class InterpNet(nn.Module):
     def __init__(self):
 
-        super(InterpNetV2, self).__init__()
+        super(InterpNet, self).__init__()
 
         self.fnet = Grid3DNet(6 , 32, channel_list=[16,32,64])
         self.flownet = PWCNet()
