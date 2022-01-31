@@ -4,6 +4,14 @@
 
 **Repo under construction!**
 
+## Highlights 
+
+- We introduce a novel frame interpolation algorithm that utilizes both flow and occlusion maps between 
+four input frames to estimate an automatically adaptable pixel-wise non-linear motion model to interpolate
+the frames.
+- We propose a parameter and runtime-efficient 3D CNN named `GridNet-3D` to aggregate multi-scale
+features efficiently. Our `GridNet-3D` has only 2.25 M parameters. 
+
 ## Requirements
 
 - torch==1.1.0 (CUDA 10.1)
