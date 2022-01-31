@@ -10,7 +10,8 @@
 four input frames to estimate an automatically adaptable pixel-wise non-linear motion model to interpolate
 the frames.
 - We propose a parameter and runtime-efficient 3D CNN named `GridNet-3D` to aggregate multi-scale
-features efficiently. Our `GridNet-3D` has only 2.25 M parameters. 
+features efficiently. Our `GridNet-3D` has only 2.44 M parameters which performs better than `UNet-3D` with 
+42.06 M parameters. 
 
 ## Requirements
 
