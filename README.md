@@ -29,7 +29,7 @@ Please setup [IRR](https://github.com/visinf/irr) repository and update installa
 
 - [Vimeo Septuplet](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip)
 - [DAVIS](https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-trainval-480p.zip)
-- [HD](https://sites.google.com/view/wenbobao/memc-net?authuser=0) 
+- [HD](https://drive.google.com/drive/folders/191AIvKT1ofekHe0CN3co3O-izgamhETE?usp=sharing) 
 - [GoPro](https://drive.google.com/file/d/1rJTmM9_mLCNzBUUhYIGldBYgup279E_f/view)
 
 The quintuplets used for evaluation are stored in `datasets` folder as `.csv` files. Please modify the absolute path accordingly.
