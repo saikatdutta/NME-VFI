@@ -2,6 +2,8 @@
 
 [Arxiv](https://arxiv.org/abs/2201.11407)
 
+:information_source:	_Paper accepted at CLIC workshop @ CVPR 2022!_
+
 **Repo under construction!**
 
 ## Highlights 
