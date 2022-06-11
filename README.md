@@ -6,7 +6,7 @@
 
 
 
-:information_source:	_Paper accepted at [CLIC workshop @ CVPR 2022](compression.cc)!_
+:information_source:	_Paper accepted at [CLIC workshop @ CVPR 2022](http://compression.cc/) !_
 
 **Repo under construction!**
 
