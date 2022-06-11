@@ -1,8 +1,12 @@
 # Non-linear Motion Estimation for Video Frame Interpolation using Space-time Convolutions
 
-[Arxiv](https://arxiv.org/abs/2201.11407)
+- [ArXiv (8 page version)](https://arxiv.org/abs/2201.11407)
+- [Paper (4 page version)](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Dutta_Non-Linear_Motion_Estimation_for_Video_Frame_Interpolation_Using_Space-Time_Convolutions_CVPRW_2022_paper.pdf)
+- [Supplementary](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/supplemental/Dutta_Non-Linear_Motion_Estimation_CVPRW_2022_supplemental.pdf)
 
-:information_source:	_Paper accepted at CLIC workshop @ CVPR 2022!_
+
+
+:information_source:	_Paper accepted at [CLIC workshop @ CVPR 2022](compression.cc)!_
 
 **Repo under construction!**
 
@@ -55,6 +59,19 @@ Our code is built upon the following existing papers and repositories.
 
 - [SuperSloMo](https://github.com/avinashpaliwal/Super-SloMo)
 
+
+## Citation
+
+```
+@InProceedings{Dutta_2022_CVPR,
+    author    = {Dutta, Saikat and Subramaniam, Arulkumar and Mittal, Anurag},
+    title     = {Non-Linear Motion Estimation for Video Frame Interpolation Using Space-Time Convolutions},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {1726-1731}
+}
+```
 
 ### Contact:
 
