@@ -3,7 +3,7 @@
 - [ArXiv (8 page version)](https://arxiv.org/abs/2201.11407)
 - [Paper (4 page version)](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Dutta_Non-Linear_Motion_Estimation_for_Video_Frame_Interpolation_Using_Space-Time_Convolutions_CVPRW_2022_paper.pdf)
 - [Supplementary](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/supplemental/Dutta_Non-Linear_Motion_Estimation_CVPRW_2022_supplemental.pdf)
-
+- [Poster](https://drive.google.com/file/d/1TFIZFoyf1TpDrBk1rpYmM9FEt1H8KgiF/view?usp=sharing)
 
 
 :information_source:	_Paper accepted at [CLIC workshop @ CVPR 2022](http://compression.cc/) !_
